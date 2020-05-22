@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27ecb804-6a25-42fd-b3a3-d142158c0f31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cFGIu48GMN3fgi61rF5IGRktFm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ICU4JGerman">
+    <configuration name="ICU4JCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ICU4JCompare" />
+      <module name="NumberPronunciation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ICU4JGerman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ICU4JGerman" />
+      <module name="NumberPronunciation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPronunciation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="substituted.ibm.NumberPronunciation" />
+      <module name="NumberPronunciation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="substituted.ibm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ICU4JGerman" />
+        <item itemvalue="Application.ICU4JCompare" />
+        <item itemvalue="Application.NumberPronunciation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ecb804-6a25-42fd-b3a3-d142158c0f31" name="Default Changelist" comment="" />
+      <created>1590116851870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590116851870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1152" y="715" key="Github.ShareDialog" timestamp="1590174479737">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state x="1152" y="715" key="Github.ShareDialog/0.23.2560.1577@0.23.2560.1577" timestamp="1590174479737" />
+    <state x="1064" y="525" key="Github.UntrackedFilesDialog" timestamp="1590174406805">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state x="1064" y="525" key="Github.UntrackedFilesDialog/0.23.2560.1577@0.23.2560.1577" timestamp="1590174406805" />
+    <state width="1485" height="326" key="GridCell.Tab.0.bottom" timestamp="1590174127061">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.bottom/0.23.2560.1577@0.23.2560.1577" timestamp="1590174127061" />
+    <state width="1485" height="326" key="GridCell.Tab.0.center" timestamp="1590174127061">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.center/0.23.2560.1577@0.23.2560.1577" timestamp="1590174127061" />
+    <state width="1485" height="326" key="GridCell.Tab.0.left" timestamp="1590174127060">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.left/0.23.2560.1577@0.23.2560.1577" timestamp="1590174127060" />
+    <state width="1485" height="326" key="GridCell.Tab.0.right" timestamp="1590174127061">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="326" key="GridCell.Tab.0.right/0.23.2560.1577@0.23.2560.1577" timestamp="1590174127061" />
+    <state width="1485" height="566" key="GridCell.Tab.1.bottom" timestamp="1590134469117">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="566" key="GridCell.Tab.1.bottom/0.23.2560.1577@0.23.2560.1577" timestamp="1590134469117" />
+    <state width="1485" height="566" key="GridCell.Tab.1.center" timestamp="1590134469116">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="566" key="GridCell.Tab.1.center/0.23.2560.1577@0.23.2560.1577" timestamp="1590134469116" />
+    <state width="1485" height="566" key="GridCell.Tab.1.left" timestamp="1590134469116">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="566" key="GridCell.Tab.1.left/0.23.2560.1577@0.23.2560.1577" timestamp="1590134469116" />
+    <state width="1485" height="566" key="GridCell.Tab.1.right" timestamp="1590134469117">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state width="1485" height="566" key="GridCell.Tab.1.right/0.23.2560.1577@0.23.2560.1577" timestamp="1590134469117" />
+    <state x="804" y="393" key="SettingsEditor" timestamp="1590117394155">
+      <screen x="0" y="23" width="2560" height="1577" />
+    </state>
+    <state x="804" y="393" key="SettingsEditor/0.23.2560.1577@0.23.2560.1577" timestamp="1590117394155" />
+  </component>
+</project>
