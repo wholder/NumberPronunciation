@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27ecb804-6a25-42fd-b3a3-d142158c0f31" name="Default Changelist" comment="" />
+    <list default="true" id="27ecb804-6a25-42fd-b3a3-d142158c0f31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/NumberPronunciation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberPronunciation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,14 +88,14 @@
     <option name="CHECK_NEW_TODO" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1152" y="715" key="Github.ShareDialog" timestamp="1590174479737">
+    <state x="1152" y="715" key="Github.ShareDialog" timestamp="1590174579572">
       <screen x="0" y="23" width="2560" height="1577" />
     </state>
-    <state x="1152" y="715" key="Github.ShareDialog/0.23.2560.1577@0.23.2560.1577" timestamp="1590174479737" />
-    <state x="1064" y="525" key="Github.UntrackedFilesDialog" timestamp="1590174406805">
+    <state x="1152" y="715" key="Github.ShareDialog/0.23.2560.1577@0.23.2560.1577" timestamp="1590174579572" />
+    <state x="1064" y="525" key="Github.UntrackedFilesDialog" timestamp="1590174585001">
       <screen x="0" y="23" width="2560" height="1577" />
     </state>
-    <state x="1064" y="525" key="Github.UntrackedFilesDialog/0.23.2560.1577@0.23.2560.1577" timestamp="1590174406805" />
+    <state x="1064" y="525" key="Github.UntrackedFilesDialog/0.23.2560.1577@0.23.2560.1577" timestamp="1590174585001" />
     <state width="1485" height="326" key="GridCell.Tab.0.bottom" timestamp="1590174127061">
       <screen x="0" y="23" width="2560" height="1577" />
     </state>

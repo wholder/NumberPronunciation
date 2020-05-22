@@ -1,7 +1,7 @@
 /*
  *  This code is a partial replacement for the com.ibm.icu.text.RuleBasedNumberFormat package in the ICU4J library
  *
- *  Author: Wayne Holder, 2019
+ *  Author: Wayne Holder, 2020
  *  License: MIT (https://opensource.org/licenses/MIT)
  */
 
